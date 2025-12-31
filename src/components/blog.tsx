@@ -2,8 +2,6 @@ import blog1 from '../images/blog-01.jpg'
 import blog2 from '../images/blog-02.jpg'
 import blog3 from '../images/blog-03.jpg'
 import author1 from '../images/author-01.png'
-import author2 from '../images/author-02.png'
-import author3 from '../images/author-03.png'
 function Blog() {
     return (
         <>

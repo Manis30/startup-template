@@ -6,9 +6,9 @@ type FormData={
         password:string
     }
     type FormDataError={
-        name:String,
-        email:String,
-        password:String
+        name?:String,
+        email?:String,
+        password?:String
     }
 function Signup() {
     const [userData,setUserData]=useState<FormData>({
